@@ -46,6 +46,12 @@ Departments:
   * Offices of the County Executive :man_office_worker:
   * Sheriff's Office :policeman: :policewoman:
 
+Pay Data
+  
+![image](https://github.com/user-attachments/assets/d837f6a0-4f96-46fe-b0cd-024e0a02eddb)
+
+![image](https://github.com/user-attachments/assets/20c3f485-80e9-4673-91ba-ef40a9ab20da)
+
 
 
 
